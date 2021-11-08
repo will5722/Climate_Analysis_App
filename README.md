@@ -4,7 +4,7 @@
 
 Used Python and SQLAlchemy to do basic climate analysis and data exploration of a climate database. All of the following analysis was completed using SQLAlchemy ORM queries, Pandas, and Matplotlib.
 
-* Used the provided [starter notebook](climate_starter.ipynb) and [hawaii.sqlite](Resources/hawaii.sqlite) files to complete the climate analysis and data exploration.
+* Used the provided [starter notebook](climate_analysis.ipynb) and [hawaii.sqlite](Resources/hawaii.sqlite) files to complete the climate analysis and data exploration.
 
 * Used SQLAlchemy `create_engine` to connect to the sqlite database.
 
