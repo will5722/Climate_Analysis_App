@@ -1,4 +1,4 @@
-# SQLAlchemy-Challenge
+# Hawaiian Climate Stations
 
 ## Step 1 - Climate Analysis and Exploration
 
